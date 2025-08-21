@@ -19,7 +19,7 @@ This project is a clone of **Airbnb**, built to practice and demonstrate backend
 - **Docker**: Containerization for consistent environments.  
 - **CI/CD Pipelines**: Automated testing and deployment workflows.
 
-- ## 👥 Team Roles0
+- ## 👥 Team Roles
 - **Backend Developer**: Responsible for implementing API endpoints, database schemas, and business logic.  
 - **Database Administrator**: Manages database design, indexing, and optimizations.  
 - **DevOps Engineer**: Handles deployment, monitoring, and scaling of the backend services.  
