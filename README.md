@@ -19,7 +19,7 @@ This project is a clone of **Airbnb**, built to practice and demonstrate backend
 - **Docker**: Containerization for consistent environments.  
 - **CI/CD Pipelines**: Automated testing and deployment workflows.
 
-- ## 👥 Team Roles
+- ## 👥 Team Roles0
 - **Backend Developer**: Responsible for implementing API endpoints, database schemas, and business logic.  
 - **Database Administrator**: Manages database design, indexing, and optimizations.  
 - **DevOps Engineer**: Handles deployment, monitoring, and scaling of the backend services.  
@@ -64,7 +64,7 @@ This project is a clone of **Airbnb**, built to practice and demonstrate backend
 
 - ## 🗄️ Database Design
 
-The database is designed to support the core functionality of the StayBnB platform. Below are the key entities, their important fields, and relationships.
+The database is designed to support the core functionality of the Lodgio platform. Below are the key entities, their important fields, and relationships.
 
 ### 🔹 Users
 - `id` (Primary Key)  
@@ -159,7 +159,7 @@ The platform provides both **REST** and **GraphQL APIs**, enabling flexible inte
 
 ## 🔒 API Security
 
-Securing the backend APIs is a critical aspect of the StayBnB project to protect sensitive data, prevent abuse, and ensure a safe experience for all users.  
+Securing the backend APIs is a critical aspect of the Lodgio project to protect sensitive data, prevent abuse, and ensure a safe experience for all users.  
 
 ### 🔹 Authentication
 - **Implementation**: Use JWT (JSON Web Tokens) or OAuth2 for secure login and session management.  
@@ -189,7 +189,7 @@ Securing the backend APIs is a critical aspect of the StayBnB project to protect
 
 Continuous Integration (CI) and Continuous Deployment (CD) pipelines automate the process of building, testing, and deploying code changes. This ensures that new features or bug fixes are integrated smoothly without breaking the existing system, improving overall code quality and accelerating development.  
 
-For the StayBnB project, CI/CD pipelines can:  
+For the Lodgio project, CI/CD pipelines can:  
 - Automatically run unit tests and API tests whenever code is pushed to the repository.  
 - Build and deploy Docker containers to development or production environments.  
 - Detect issues early and provide immediate feedback to developers.  
