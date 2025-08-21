@@ -183,7 +183,7 @@ Securing the backend APIs is a critical aspect of the Lodgio project to protect 
 
 ### 🔹 Monitoring & Logging
 - **Implementation**: Log all critical actions (e.g., login attempts, failed payments, suspicious activity) with monitoring tools.  
-- **Why**: Helps detect security breaches earl
+- **Why**: Helps detect security breaches early
 
 - ## ⚙️ CI/CD Pipeline
 
